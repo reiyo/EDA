@@ -1,2 +1,2 @@
 # EDA
-Electronic design automation (EDA) projects
+Electronic design automation (EDA) projects.
