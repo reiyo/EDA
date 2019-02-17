@@ -1,2 +1,2 @@
 # EDA
-Source codes of EDA projects.
+Electronic design automation (EDA) projects
