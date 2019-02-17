@@ -1,2 +1,2 @@
-# Release
-Source codes of released projects.
+# EDA
+Source codes of EDA projects.
